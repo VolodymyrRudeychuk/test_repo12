@@ -1,6 +1,7 @@
 var stringTest = ["hello", "world", "sfsfdf", "sdfdsfsdf"]
 var stringTest2 = ["hello", "vova"]
 var num = Math.random();
+var pes = "machka"
 
 function newFunction(a, b, c, d, e) 
 {
